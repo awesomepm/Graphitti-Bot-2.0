@@ -1,1 +1,1 @@
-# Graphitti-Bot-2.0
+# Grafitti-Bot-2.0
